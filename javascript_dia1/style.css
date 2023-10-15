@@ -1,0 +1,21 @@
+
+button{
+/* Cambiar el color de fondo */
+background-color: #4CAF50;
+
+/* Cambiar el color del texto */
+color: white;
+
+/* Agregar bordes */
+border: none;
+border-radius: 5px;
+
+/* Agregar sombra */
+box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+
+/* Cambiar el tamaño del texto */
+font-size: 16px;
+
+/* Cambiar el tamaño del botón */
+padding: 10px 20px;
+}

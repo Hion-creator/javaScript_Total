@@ -1,0 +1,23 @@
+input {
+    /* Cambiar el color del borde */
+    border-color: #ccc;
+    
+    /* Cambiar el color del fondo */
+    background-color: #fff;
+    
+    /* Cambiar el color del texto */
+    color: #333;
+    
+    /* Cambiar el tamaño de la fuente */
+    font-size: 16px;
+    
+    /* Cambiar el tamaño del input */
+    width: 100%;
+    height: 40px;
+    
+    /* Agregar un padding */
+    padding: 10px;
+    
+    /* Agregar un margen */
+    margin-bottom: 20px;
+}
